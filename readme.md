@@ -19,7 +19,7 @@ https://github.com/barryvdh/laravel-ide-helper
 
 ## Usage
 
-`composer create-project --prefer-dist hanson/base-laravel-project project`
+```composer create-project --prefer-dist hanson/base-laravel-project:dev-master project```
 
 ## License
 
